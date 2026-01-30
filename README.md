@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aneesh Khandelwal</h1>
-<h3 align="center">A passionate frontend and backend developer from India</h3>
+<h3 align="center">A passionate coder from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif?cid=6c09b952zino35c6fu5ed035uekw67legmz0hjkssvbzu46g&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
 
