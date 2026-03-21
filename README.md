@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aneeshpoetries&label=Profile%20views&color=0e75b6&style=flat" alt="aneeshpoetries" /> </p>
 
-- 🌱 I’m currently learning **game+web development**
-
 - 📫 How to reach me **aneeshkhandelwal07@gmail.com**
 
 - ⚡ Fun fact **I think I dont give up easily😎**
